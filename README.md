@@ -1,2 +1,4 @@
 # RBGGame
-A Simple Color Guessing Game
+A Simple Color Guessing Game designed with HTML CSS and Javascript
+
+
